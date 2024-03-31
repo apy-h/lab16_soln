@@ -151,7 +151,7 @@ group), the extra match cases would need to be added.
 We named our type `vehicle`. What do vehicles have in common? In our
 case, they have a certain amount of energy, an efficiency with which
 they use that energy, and the ability to move in two dimensional
-space. We can provide that functionality as a class. When we need an
+space. We can provide that functionality as a _class_. When we need an
 actual instance of that class, we can create an object based upon its
 structure. We've provided the skeleton of a `vehicle_class` class
 (called `vehicle_class` rather than `vehicle` because we already
